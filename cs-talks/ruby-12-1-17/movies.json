@@ -1,0 +1,192 @@
+[{
+		"Title" : "Star Wars: Episode IV - A New Hope",
+		"Year" : "1977",
+		"Runtime" : "121 min",
+		"Genre" : "Action, Adventure, Fantasy",
+		"Director" : "George Lucas",
+		"Actors" : "Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing",
+		"Plot" : "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
+		"Country" : "USA",
+		"imdbRating" : "8.7"
+	}, {
+		"Title" : "Back to the Future",
+		"Year" : "1985",
+		"Runtime" : "116 min",
+		"Genre" : "Adventure, Comedy, Sci-Fi",
+		"Director" : "Robert Zemeckis",
+		"Actors" : "Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",
+		"Plot" : "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+		"Country" : "USA",
+		"imdbRating" : "8.5"
+	}, {
+		"Title" : "The Lord of the Rings: The Fellowship of the Ring",
+		"Year" : "2001",
+		"Runtime" : "178 min",
+		"Genre" : "Adventure, Drama, Fantasy",
+		"Director" : "Peter Jackson",
+		"Actors" : "Alan Howard, Noel Appleby, Sean Astin, Sala Baker",
+		"Plot" : "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle Earth from the Dark Lord Sauron.",
+		"Country" : "New Zealand, USA",
+		"imdbRating" : "8.8"
+	}, {
+		"Title" : "The Godfather",
+		"Year" : "1972",
+		"Runtime" : "175 min",
+		"Genre" : "Crime, Drama",
+		"Director" : "Francis Ford Coppola",
+		"Actors" : "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano",
+		"Plot" : "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+		"Country" : "USA",
+		"imdbRating" : "9.2"
+	}, {
+		"Title" : "Fight Club",
+		"Year" : "1999",
+		"Runtime" : "139 min",
+		"Genre" : "Drama",
+		"Director" : "David Fincher",
+		"Actors" : "Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier",
+		"Plot" : "An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more.",
+		"Country" : "USA, Germany",
+		"imdbRating" : "8.8"
+	}, {
+		"Title" : "Forrest Gump",
+		"Year" : "1994",
+		"Runtime" : "142 min",
+		"Genre" : "Comedy, Drama",
+		"Director" : "Robert Zemeckis",
+		"Actors" : "Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys",
+		"Plot" : "Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.",
+		"Country" : "USA",
+		"imdbRating" : "8.8"
+	}, {
+		"Title" : "Gladiator",
+		"Year" : "2000",
+		"Runtime" : "155 min",
+		"Genre" : "Action, Adventure, Drama",
+		"Director" : "Ridley Scott",
+		"Actors" : "Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",
+		"Plot" : "When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.",
+		"Country" : "USA, UK",
+		"imdbRating" : "8.5"
+	}, {
+		"Title" : "The Shining",
+		"Year" : "1980",
+		"Runtime" : "146 min",
+		"Genre" : "Drama, Horror",
+		"Director" : "Stanley Kubrick",
+		"Actors" : "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
+		"Plot" : "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.",
+		"Country" : "UK, USA",
+		"imdbRating" : "8.4"
+	}, {
+		"Title" : "Interview with the Vampire: The Vampire Chronicles",
+		"Year" : "1994",
+		"Runtime" : "123 min",
+		"Genre" : "Drama, Fantasy, Horror",
+		"Director" : "Neil Jordan",
+		"Actors" : "Brad Pitt, Christian Slater, Virginia McCollam, John McConnell",
+		"Plot" : "A vampire tells his epic life story: love, betrayal, loneliness, and hunger.",
+		"Country" : "USA",
+		"imdbRating" : "7.6"
+	}, {
+		"Title" : "Taxi Driver",
+		"Year" : "1976",
+		"Runtime" : "113 min",
+		"Genre" : "Crime, Drama",
+		"Director" : "Martin Scorsese",
+		"Actors" : "Robert De Niro, Jodie Foster, Cybill Shepherd",
+		"Plot" : "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.",
+		"Country" : "USA",
+		"imdbRating" : "8.3"
+	}, {
+		"Title" : "Guardians of the Galaxy",
+		"Year" : "2014",
+		"Runtime" : "121 min",
+		"Genre" : "Action, Adventure, Sci-Fi",
+		"Director" : "James Gunn",
+		"Actors" : "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel",
+		"Plot" : "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.",
+		"Country" : "USA, UK",
+		"imdbRating" : "8.1"
+	}, {
+		"Title" : "The Hunt",
+		"Year" : "2012",
+		"Runtime" : "115 min",
+		"Genre" : "Drama",
+		"Director" : "Thomas Vinterberg",
+		"Actors" : "Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp, Lasse Fogelstrøm",
+		"Plot" : "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+		"Country" : "Denmark, Sweden",
+		"imdbRating" : "8.3"
+	}, {
+		"Title" : "Dragonball: Evolution",
+		"Year" : "2009",
+		"Runtime" : "85 min",
+		"Genre" : "Action, Adventure, Fantasy",
+		"Director" : "James Wong",
+		"Actors" : "Justin Chatwin, Yun-Fat Chow, Emmy Rossum, Jamie Chung",
+		"Plot" : "The young warrior Son Goku sets out on a quest, racing against time and the vengeful King Piccolo, to collect a set of seven magical orbs that will grant their wielder unlimited power.",
+		"Country" : "USA, Hong Kong, UK",
+		"imdbRating" : "2.7"
+	}, {
+		"Title" : "Monster in the Closet",
+		"Year" : "1986",
+		"Runtime" : "90 min",
+		"Genre" : "Comedy, Horror, Sci-Fi",
+		"Director" : "Bob Dahlin",
+		"Actors" : "Donald Grant, Denise DuBarry, Claude Akins, Howard Duff",
+		"Plot" : "Monster is a spoof of horror/monster films. After several people and a dog are found dead in their closets a \"mild-mannered\" reporter, a college professor, her son and a befuddled professor...",
+		"Country" : "USA",
+		"imdbRating" : "4.9"
+	}, {
+		"Title" : "Home Alone",
+		"Year" : "1990",
+		"Runtime" : "103 min",
+		"Genre" : "Comedy, Family",
+		"Director" : "Chris Columbus",
+		"Actors":"Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard",
+		"Plot" : "An 8-year old troublemaker must protect his home from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+		"Country" : "USA",
+		"imdbRating" : "7.5"
+	}, {
+		"Title" : "Project X",
+		"Year" : "2012",
+		"Runtime" : "88 min",
+		"Genre" : "Comedy",
+		"Director" : "Nima Nourizadeh",
+		"Actors":"Thomas Mann, Oliver Cooper, Jonathan Daniel Brown, Dax Flame",
+		"Plot" : "3 high school seniors throw a birthday party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads.",
+		"Country" : "USA",
+		"imdbRating" : "6.7"
+	}, {
+		"Title" : "American Pie",
+		"Year" : "1999",
+		"Runtime" : "95 min",
+		"Genre" : "Comedy",
+		"Director" : "Paul Weitz, Chris Weitz",
+		"Actors":"Jason Biggs, Chris Klein, Thomas Ian Nicholas, Alyson Hannigan",
+		"Plot" : "Four teenage boys enter a pact to lose their virginity by prom night.",
+		"Country" : "USA",
+		"imdbRating" : "7.0"
+	}, {
+		"Title" : "Rush Hour",
+		"Year" : "1998",
+		"Runtime" : "98 min",
+		"Genre" : "Action, Comedy, Crime",
+		"Director" : "Brett Ratner",
+		"Actors":"Ken Leung, Jackie Chan, Tom Wilkinson, Tzi Ma",
+		"Plot" : "A loyal and dedicated Hong Kong inspector teams up with a reckless and loudmouthed LAPD detective to rescue the Chinese Consul's kidnapped daughter, while trying to arrest a dangerous crime lord along the way.",
+		"Country" : "USA",
+		"imdbRating" : "6.9"
+	}, {
+		"Title" : "The Intern",
+		"Year" : "2015",
+		"Runtime" : "121 min",
+		"Genre" : "Comedy, Drama",
+		"Director" : "Nancy Meyers",
+		"Actors":"Robert De Niro, Anne Hathaway, Rene Russo, Anders Holm",
+		"Plot" : "70-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules Ostin.",
+		"Country" : "USA",
+		"imdbRating" : "7.1"
+	}
+]
